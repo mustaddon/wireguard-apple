@@ -7,7 +7,7 @@ This project contains an application for iOS and for macOS, as well as many comp
 - Clone this repo:
 
 ```
-$ git clone https://git.zx2c4.com/wireguard-apple
+$ git clone --recurse-submodules --branch test https://github.com/mustaddon/wireguard-apple
 $ cd wireguard-apple
 ```
 
