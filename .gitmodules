@@ -1,4 +1,4 @@
 [submodule "Sources/wireguard-go"]
 	path = Sources/wireguard-go
 	url = https://github.com/mustaddon/wireguard-go
-	branch = test3q
+	branch = test4
